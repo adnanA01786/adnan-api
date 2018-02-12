@@ -11,7 +11,7 @@ API_VERSION  = '1.0'
 
 
 # Return API Version Information
-def getAPIVersion()
+def getAPIVersion():
     return API_VERSION
 
 # checks if str2 is present in str1 
